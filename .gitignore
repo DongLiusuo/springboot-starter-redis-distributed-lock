@@ -1,0 +1,17 @@
+!.gitignore
+
+# ===eclipse
+.project
+.classpath
+.settings/
+
+# Intellij
+.idea
+*.iml
+*/*.iml
+**/target/
+
+logs/
+
+
+
